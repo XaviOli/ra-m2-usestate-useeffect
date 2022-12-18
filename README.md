@@ -3,9 +3,9 @@
 
 In this exercise we are going to usethe React + Vite option, just like in the local repository. Where we are going to represent three geometric shapes using the most appropriate HTML elements.
 
-- Triangle 🔺
-- Circle 🔵
-- Square 🟨
+- Triangle
+- Circle
+- Square
 
 We will allow the color and size of each shape to be controlled interactively by the user.
 
