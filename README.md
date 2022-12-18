@@ -1,12 +1,16 @@
 
-## Tarea useState y useEffect
+## useState & useEffect task
 
-Utiliza la opción de React + Vite, al igual que en el repositorio local.
+In this exercise we are going to usethe React + Vite option, just like in the local repository. Where we are going to represent three geometric shapes using the most appropriate HTML elements.
 
-Representa un triángulo, un círculo y un cuadrado, utilizando los elementos HTML más adecuados.
+- Triangle
+- Circle
+- Square
 
-Permite que pueda controlarse el color y el tamaño de cada forma de manera interactiva por parte del usuario/a, como se muestra en el video.
+We will allow the color and size of each shape to be controlled interactively by the user.
 
-Lanza una alerta cuando el tamaño de todos los elementos es el mismo o cuando el color de todos los elementos es el mismo.
+## An alert should be triggered 
 
-Inicializa los elementos con distinto tamaño y color.
+When the size of all elements is the same or when the color of all elements is the same.
+
+Initializes elements with different size and color.
